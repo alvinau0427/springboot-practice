@@ -3,9 +3,7 @@
 
 ## Getting Started
 
-This project is a starting point for a Java spring boot web application.
-
-A few resources written by chinese to get you started if this is your first Java spring project:
+This project is a starting point for a Java spring boot web application. A few resources written by chinese to get you started if this is your first Java spring project:
 
 - [Spring Boot-第1課-建立初始專案](https://medium.com/chikuwa-tech-study/spring-boot-%E7%AC%AC1%E8%AA%B2-%E5%BB%BA%E7%AB%8B%E5%88%9D%E5%A7%8B%E5%B0%88%E6%A1%88-214ff084f787)
 - [Spring Boot-第2課-設計RESTful API](https://medium.com/chikuwa-tech-study/spring-boot-%E7%AC%AC2%E8%AA%B2-restful-api%E4%BB%8B%E7%B4%B9-955f776da32d)
